@@ -1,4 +1,4 @@
-# Anton Melanin
+# Anton M
 
 Finance and reconciliation analyst based in Limassol, Cyprus. I work on the gap between what a ledger says and what actually happened — matching records, investigating breaks, and explaining why two systems disagree.
 
