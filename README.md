@@ -18,6 +18,6 @@ Python (pandas) · SQL · Excel · SAP ERP · Power BI · Etherscan / Solscan / 
 
 ### Contact
 
-antonmelanine@gmail.com · [LinkedIn](https://www.linkedin.com/in/antonmelanine)
+ [LinkedIn](https://www.linkedin.com/in/antonmelanine)
 
 <sub>BSc Economics, International Economic Relations — Financial University, 2027 (expected)</sub>
